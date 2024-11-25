@@ -47,6 +47,11 @@
 			<artifactId>sadlier-account</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>com.sadlier</groupId>
+			<artifactId>sadlier_product</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<!-- gRPC -->
 		<dependency>
 			<groupId>io.grpc</groupId>

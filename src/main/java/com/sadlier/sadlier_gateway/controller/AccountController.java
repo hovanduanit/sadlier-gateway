@@ -1,6 +1,5 @@
 package com.sadlier.sadlier_gateway.controller;
 
-import com.example.account.AccountProto;
 import com.sadlier.sadlier_gateway.client.AccountServiceClient;
 import com.sadlier.sadlier_gateway.dto.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
